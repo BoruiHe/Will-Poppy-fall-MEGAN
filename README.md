@@ -1,7 +1,7 @@
 ### Introduction
 This repo is the implementation of the paper [Will Poppy Fall? Predicting Robot Falls in Advance Based on Visual Input](https://ieeexplore.ieee.org/document/10459748).
 
-### Installation & setup
+### Installation & Setup
 1. Download the real Poppy dataset from this [link](https://drive.google.com/file/d/1gnMWdRNPNHEHCsTN40nOruPfZXFxTSHg/view?usp=drive_link) and unzip it to the `Will-Poppy-fall-main` folder.
 2. Download the 3rd part dataset from [here](https://doi.org/10.34894/3DV8BF).
 3. Generate your virtual Poppy dataset by executing data_generation.py. Any modification on `global scale` is not recommended.
